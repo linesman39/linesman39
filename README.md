@@ -1,8 +1,14 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Callistus</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
+   <h1>Hi there, I'm <a href="https://hemant.codes">Callistus</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+<div style="background-image: url('https://pixabay.com/photos/chess-chessboard-board-game-1215079/'); height: 300px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative;">
+   <!-- Your existing content goes here -->
+   <div align="center">
+      <h1>Hi there, I'm Callistus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+      <!-- Rest of your content -->
+   </div>
 </div>
 
 <p align='center'>
