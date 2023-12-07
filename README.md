@@ -7,13 +7,14 @@
 <!-- Introduction -->
 ## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 <!-- Add more skills -->
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=linesman39&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/linesman39)
 
 <!-- Recent Activity -->
 ## 🌟 Recent Activity
@@ -29,7 +30,7 @@
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=appveyor&logoColor=white)](https://your-portfolio-website.com)
 
 <!-- Visitors -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.Benclark_Bot)
 
 <!-- Footer -->
 <!-- Feel free to add more sections like projects, blog posts, etc. -->
