@@ -30,7 +30,7 @@
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=appveyor&logoColor=white)](https://your-portfolio-website.com)
 
 <!-- Visitors -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.Benclark_Bot)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=linesman39.Benclark-Bot)
 
 <!-- Footer -->
 <!-- Feel free to add more sections like projects, blog posts, etc. -->
