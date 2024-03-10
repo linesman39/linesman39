@@ -1,6 +1,6 @@
 <!-- Header with background image -->
 <div style="background-image: url('https://example.com/your-background-image.jpg'); background-size: cover; padding: 100px; text-align: center; color: #fff;">
-  <h1>👋 Hi there, I'm Callistus!</h1>
+  <h1>👋 Hi there, I'm Denyefa Callistus!</h1>
   <p>I'm a passionate Data Scientist and machine learning engineer who loves to solve problems. Welcome to my GitHub profile! 🚀</p>
 </div>
 
