@@ -16,6 +16,12 @@
 ## 📈 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=linesman39&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/linesman39)
 
+<!-- Public Repositories --> 
+## 📂 Public Repositories 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linesman39&repo=repo1&theme=radical)](https://github.com/linesman39/ml_project) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linesman39&repo=repo2&theme=radical)](https://github.com/linesman39/repo2) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linesman39&repo=repo3&theme=radical)](https://github.com/linesman39/repo3) <!-- Add more repositories as
+
 <!-- Recent Activity -->
 ## 🌟 Recent Activity
 <!--START_SECTION:activity-->
